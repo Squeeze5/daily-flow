@@ -1,0 +1,3 @@
+PySide6>=6.4.0
+pycaw>=20220416
+comtypes>=1.1.14
